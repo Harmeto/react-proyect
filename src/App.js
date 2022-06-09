@@ -12,7 +12,7 @@ function App() {
         alt = "logo" / >
         <
         p >
-        Pagina Subida por Carlos Salvo < /
+        Rama Qa, subida por Carlos Salvo < /
         p > <
         a className = "App-link"
         href = "https://reactjs.org"
